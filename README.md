@@ -4,7 +4,7 @@ Nesse desafio, você deve criar uma aplicação para treinar o que você aprende
 Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend no último desafio utilizando o Node.js.
 
 <h3>Funcionalidades da aplicação</h3>
-Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo src/App.js, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
+Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo src/App.js, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.<br>
 
 <b>Listar os repositórios da sua API:</b> Deve ser capaz de criar uma lista com o campo title de todos os repositórios que estão cadastrados na sua API.
 
